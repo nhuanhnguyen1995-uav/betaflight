@@ -179,8 +179,8 @@
 #include "olc.h"
 #endif
 
-#define AH_SYMBOL_COUNT 15
-#define AH_SIDEBAR_WIDTH_POS 10
+#define AH_SYMBOL_COUNT 9
+#define AH_SIDEBAR_WIDTH_POS 7
 #define AH_SIDEBAR_HEIGHT_POS 3
 
 // Stick overlay size
